@@ -1,0 +1,24 @@
+[submodule "latkpy"]
+	path = latkpy
+	url = https://github.com/LightningArtist/latkpy
+[submodule "latkProcessing"]
+	path = latkProcessing
+	url = https://github.com/LightningArtist/latkProcessing
+[submodule "latk.js"]
+	path = latk.js
+	url = https://github.com/LightningArtist/latk.js
+[submodule "latkUnity"]
+	path = latkUnity
+	url = https://github.com/LightningArtist/latkUnity
+[submodule "ofxLatk"]
+	path = ofxLatk
+	url = https://github.com/LightningArtist/ofxLatk
+[submodule "latk-test-files"]
+	path = latk-test-files
+	url = https://github.com/LightningArtist/latk-test-files
+[submodule "latkUnreal"]
+	path = latkUnreal
+	url = https://github.com/LightningArtist/latkUnreal
+[submodule "latk_blender"]
+	path = latk_blender
+	url = https://github.com/n1ckfg/latk_blender
