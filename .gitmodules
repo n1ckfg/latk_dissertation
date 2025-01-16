@@ -22,3 +22,27 @@
 [submodule "latk_blender"]
 	path = latk_blender
 	url = https://github.com/n1ckfg/latk_blender
+[submodule "latkUnity_ARFoundation"]
+	path = latkUnity_ARFoundation
+	url = https://github.com/n1ckfg/latkUnity_ARFoundation
+[submodule "latkUnity_OpenXR"]
+	path = latkUnity_OpenXR
+	url = https://github.com/n1ckfg/latkUnity_OpenXR
+[submodule "latk_video_001"]
+	path = latk_video_001
+	url = https://github.com/n1ckfg/latk_video_001/
+[submodule "latk_ml_001"]
+	path = latk_ml_001
+	url = https://github.com/n1ckfg/latk_ml_001/
+[submodule "latk_ml_002"]
+	path = latk_ml_002
+	url = https://github.com/n1ckfg/latk_ml_002/
+[submodule "latk_ml_003"]
+	path = latk_ml_003
+	url = https://github.com/n1ckfg/latk_ml_003/
+[submodule "latk_ml_004"]
+	path = latk_ml_004
+	url = https://github.com/n1ckfg/latk_ml_004/
+[submodule "latk_ml_005"]
+	path = latk_ml_005
+	url = https://github.com/n1ckfg/latk_ml_005/
